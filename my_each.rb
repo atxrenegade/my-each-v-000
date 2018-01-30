@@ -7,4 +7,6 @@ def my_each(array)
      yield array[n]
      n += 1
      array
+   end
+ end 
 end
