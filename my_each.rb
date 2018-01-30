@@ -4,4 +4,3 @@ my_each(array)
 
 
 end
-  
